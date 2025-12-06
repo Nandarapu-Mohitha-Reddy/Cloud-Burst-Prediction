@@ -1,20 +1,3 @@
-Great — thanks for sharing your file names!
-Based on your files:
-
-* **EDA on Cloud burst.ipynb**
-* **Model Development(1).ipynb**
-* **cloudpredictionsystemproject.csv**
-* **README.md**
-
-I will now create a **perfect customized README** for your repository *exactly matching your project files*.
-
----
-
-# ✅ **FINAL README FOR YOUR PROJECT**
-
-You can copy–paste this directly into your `README.md` file.
-
----
 
 # 🌧️ Cloud-Burst-Prediction
 
