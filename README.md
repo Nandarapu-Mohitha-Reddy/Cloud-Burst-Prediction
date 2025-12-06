@@ -28,7 +28,7 @@ This repository contains the following important files:
 * Visualizes weather trends
 * Identifies key features for prediction
 
-### **2️⃣ Model Development(1).ipynb**
+### **2️⃣ Model Development.ipynb**
 
 * Builds machine learning models
 * Trains and tests predictive algorithms
@@ -51,7 +51,7 @@ This repository contains the following important files:
 Cloud-Burst-Prediction/
 │
 ├── EDA on Cloud burst.ipynb
-├── Model Development(1).ipynb
+├── Model Development.ipynb
 ├── cloudpredictionsystemproject.csv
 └── README.md
 ```
